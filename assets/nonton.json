@@ -1,0 +1,30 @@
+{
+    "film": [
+      {
+        "id": "1",
+        "name": "KKN DIDESA PENARI(UNCUT)",
+        "description": "Nur, Widya, Ayu, Bima, Anton, dan Wahyu melaksanakan kuliah kerja nyata (KKN) di sebuah desa terpencil. Namun, mereka sama sekali tidak menyangka bahwa desa yang mereka pilih bukanlah desa biasa. Pak Prabu, sang kepala desa telah memperingatkan mereka untuk tidak melewati batas gapura terlarang. Beberapa hari di desa tersebut, mereka mulai merasakan keanehan. Bima mengalami perubahan sikap dan program KKN mereka akhirnya berantakan.",
+        "pictureId": "assets/img/penari.jpg",
+        "Durasi": "2 Jam 10 Menit",
+        "rating": "6.0",
+        "harga": "Rp.20.000",
+        "pemeran": "Tissa Biani,Adinda Thomas,Achmad Megantara, Aghniny Haque,Calvin Jeremy, Fajar Nugraha",
+        "rilis": "2022",
+        "sutradara": "Awi Suryadi",
+        "perusahaan": "Pratama Pradana Pic"
+      },
+      {
+        "id": "2",
+        "name": "SATRIA DEWA GATOTKACA",
+        "description": "Dunia dalam cerita ini sedikit berbeda ada manusia -manusia yang memiliki kemampuan jauh di atas rata-rata, diam - diam hidup di antara kita. Ada yang cerdas luar biasa, kuat tak terkira, tak pernah mengalami sakit, pendengaran setajam kelelawar, dan lain-lain. Dunia yang juga begitu mencekam, karena teror pembunuh berantai.",
+        "pictureId": "assets/img/gatotkaca.jpg",
+        "Durasi": "2 Jam 9 Menit",
+        "rating": "6,4",
+        "harga": "Rp.20.000",
+        "pemeran": "Rizky Nazar,Jordan Omar,Yasmin Napper,Omar Daniel,Ali Fikry,Yayan Ruhian,Cecep Arif Rahman",
+        "rilis": "2022",
+        "sutradara": "Hanung Bramantyo",
+        "perusahaan": "Satria Dewa Studio, Lumine Studio"
+      }
+    ]
+  }
